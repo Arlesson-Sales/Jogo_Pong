@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+body {
+  background-color: #aaa;
+}
+
+.gameScreen {
+  width: 800px;
+  height: 400px;
+  background-color: #000;
+}
+
+.ball {
+  margin: 0px;
+  background-color: #fff;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 190px;
+  left: 370px;
+}
+
+.bar {
+  position: absolute;
+  background-color: #fff;
+  margin: 0px;
+  width: 15px;
+  height: 110px;
+}
+
+.left {
+  left: 15px;
+  top: 150px;
+}
+
+.right {
+  left: 785px;
+  top: 150px;
+}
+
+/* Botões e caixas de texto */
+
+#points {
+  font-family: Arial Sans-Serif;
+  font-weight: bolder;
+  padding: 0px;
+  margin: 0px;
+  color: #fff;
+  display: inline-block;
+  text-shadow: 2px 2px 5px rgba(0,0,0,.5);
+}
+
+
+.button {
+  color: #fff;
+  background-color: #069;
+  padding: 5px;
+  font-weight: bolder;
+}
