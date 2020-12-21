@@ -1,2 +1,2 @@
-# Jogo_Pong
-Jogo pong com Javascript, HTML e CSS
+# Jogo Pong
+Jogo pong feito com Javascript, HTML e CSS.
